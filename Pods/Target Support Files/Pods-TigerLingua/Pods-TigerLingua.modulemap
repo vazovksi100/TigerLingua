@@ -1,0 +1,6 @@
+framework module Pods_TigerLingua {
+  umbrella header "Pods-TigerLingua-umbrella.h"
+
+  export *
+  module * { export * }
+}
